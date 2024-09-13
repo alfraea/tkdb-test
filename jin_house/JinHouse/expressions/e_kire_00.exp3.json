@@ -1,0 +1,142 @@
+{
+  "Type": "Live2D Expression",
+  "FadeInTime": 0.2,
+  "FadeOutTime": 0.2,
+  "Parameters": [
+    {
+      "Id": "ParamBrowLY",
+      "Value": 0.3,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRY",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLX",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRX",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLWrinkle01",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowLWrinkle2",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamBrowRWrinkle1",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "Value": 0.2,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamLBottomEyelidRaiser",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "Value": 0.2,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamRBottomEyelidRaiser",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeLForm",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeRForm",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeBallHi",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeBallForm",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthForm2",
+      "Value": 0.5,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamMouthForm",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamTooth02",
+      "Value": -1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeShadowL1",
+      "Value": 0.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeShadowL2",
+      "Value": 1.0,
+      "Blend": 1
+    },
+    {
+      "Id": "ParamEyeShadowL3",
+      "Value": 1.0,
+      "Blend": 1
+    }
+  ]
+}
